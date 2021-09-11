@@ -1,1 +1,5 @@
 Instrucciones específicas ordenadas para una solución.
+codigo  legible : Un código legible es un código que puede ser leído fácilmente y que se pueda comprender el flujo aunque no comprenda todo lo que se hace en él.
+Finito: son aquellos que solo contienen un número finito de palabras. 
+Preciso: estar compuesto de pasos bien definidos (no ambiguos) y ordenados.
+Definido: si se sigue dos veces, se obtiene el mismo resultado cada vez.
